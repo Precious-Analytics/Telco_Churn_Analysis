@@ -1,1 +1,1 @@
-# Customer Churn Analysis : Proactive Retention Strategy for Telco
+# Telco Customer Churn Analysis : Proactive Retention Strategy
